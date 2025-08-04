@@ -1,6 +1,3 @@
-# k8s-pod-demo
-k8s-pod-demo
+## k8s-pod-demo
 
-```
-$ kubectl kustomize . | kubectl -n argocd apply -f -
-```
+https://github.com/tatsukoni-pra/k8s-pod-demo/blob/main/doc/RESEARCH.md
